@@ -33,7 +33,7 @@ function Nunu(){}
  * @type {string}
  * @default "nunuStudio"
  */
-Nunu.NAME = "nunuStudio";
+Nunu.NAME = "QuantumEngineStudio3D";
 
 /**
  * Stores the runtime version.
@@ -184,7 +184,7 @@ Nunu.enterVR = function(renderer, onSuccess)
 	}
 	else
 	{
-		console.warn("nunuStudio: VR support is not available.");
+		console.warn("QuantumEngine: VR support is not available.");
 	}
 };
 
@@ -265,7 +265,7 @@ Nunu.getXRSession = function(onSession)
 {
 	if(!Nunu.webXRAvailable())
 	{
-		console.warn("nunuStudio: WebXR support is not available.");
+		console.warn("QuantumEngine: WebXR support is not available.");
 		return;
 	}
 
@@ -330,7 +330,7 @@ Nunu.getVRDisplay = function(onDisplay)
 {
 	if(!Nunu.webVRAvailable())
 	{
-		console.warn("nunuStudio: WebVR support is not available.");
+		console.warn("QuantumEngine: WebVR support is not available.");
 		return;
 	}
 
@@ -349,7 +349,7 @@ Nunu.getVRDisplay = function(onDisplay)
 			}
 			else
 			{
-				console.warn("nunuStudio: WebVR supported but no display is available.");
+				console.warn("QuantumEngine: WebVR supported but no display is available.");
 			}
 		});
 	}
