@@ -31,7 +31,7 @@ function Nunu(){}
  * 
  * @attribute NAME
  * @type {string}
- * @default "nunuStudio"
+ * @default "QuantumEngineStudio3D"
  */
 Nunu.NAME = "QuantumEngineStudio3D";
 
