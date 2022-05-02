@@ -6,6 +6,7 @@
  - It has a fully featured visual editor, supports a wide range of file formats, the tools are open source and completely free to use for both personal and commercial usage, it is powered by open web APIs like WebGL, WebXR and Web Audio.
  - Visual scene editor, code editor, visual tools to edit textures, materials, particle emitters and a powerful scripting API that allows the creation of complex applications.
  - The project  build on top of open source libraries with good community support like [nwjs.io](https://nwjs.io), [three.js](https://github.com/mrdoob/three.js), [cannon.js](https://schteppe.github.io/cannon.js), [opentype](https://opentype.js.org), [jscolor.com](http://jscolor.com), [codemirror.net](https://codemirror.net), [leapjs](https://github.com/leapmotion/leapjs), [jshint.com](https://jshint.com), [yuidoc](https://yui.github.io/yuidoc)
+ - The engine is based off of nunuStudio, but will grow as we develop the engine.
 
  - Fully featured [web version](https://nunustudio.org/editor) of the editor is available on the project page.
  - The web version was tested with Firefox, Chrome and Microsoft Edge, mobile browsers are not supported.
@@ -71,7 +72,7 @@
 
 ### License
 
-- nunuStudio uses a MIT license that allow for commercial usage of the platform without any cost.
+- Quantum Studio uses a MIT license that allow for commercial usage of the platform without any cost.
 - The license is available on the project GitHub page
 
-## forked from nunustudio.
+## forked from nunuStudio by Tentone.
