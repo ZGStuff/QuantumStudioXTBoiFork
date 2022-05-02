@@ -31,7 +31,7 @@ function AboutTab(parent, closeable, container, index)
 	this.name.element.style.width = "100%";
 	this.name.setTextSize(25);
 	this.name.setAlignment(Text.CENTER);
-	this.name.setText(Nunu.NAME + " " + VERSION + " Build " + TIMESTAMP);
+	this.name.setText("QuantumEngine3D"" + " " + " + "alpha 1.0.0" Build " + TIMESTAMP);
 
 
 
