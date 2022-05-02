@@ -29,9 +29,9 @@ function Nunu() {}
  *
  * @attribute NAME
  * @type {string}
- * @default "nunuStudio"
+ * @default "QuantumEngine3D"
  */
-Nunu.NAME = "nunuStudio";
+Nunu.NAME = "QuantumEngine3D";
 
 /**
  * Stores the runtime version.
