@@ -119,16 +119,16 @@
 			"build"
 		],
 		"win": {
-			"productName": "nunuStudio",
-			"companyName": "tentone",
+			"productName": "QuantumEngine3D",
+			"companyName": "quantumgamesinc",
 			"copyright": "MIT",
 			"icon": "source/files/icon.ico",
 			"versionStrings": {}
 		},
 		"mac": {
-			"name": "nunuStudio",
-			"displayName": "nunuStudio",
-			"companyName": "tentone",
+			"name": "QuantumEngine3D",
+			"displayName": "QuantumEngine3D",
+			"companyName": "quantumgamesinc",
 			"copyright": "MIT"
 		}
 	}
